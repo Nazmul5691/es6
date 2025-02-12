@@ -23,3 +23,6 @@ class Bus extends Vehicle{
         this.ticketPrice = ticketPrice;
     }
 }
+
+const newBusGaree = new Bus('Pagla Hanif', 10000000)
+console.log(newBusGaree);
