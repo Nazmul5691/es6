@@ -14,6 +14,8 @@ console.log(busGaree);
 
 // output
 // Vehicle { name: 'Pagla Hanif', price: 10000000 }
+// output
+// Vehicle { name: 'Pagla Hanif', price: 10000000 }
 
 
 class Bus extends Vehicle{
